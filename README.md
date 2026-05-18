@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=23,28,33,35&height=250&section=header&text=MOHD%20MEHANDI&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=50&desc=Computer%20Science%20Engineer%20%7C%20COEP%20Technological%20University&descAlignY=75&descSize=18&descColor=00e5ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,4,5,28&height=220&section=header&text=MOHD%20MEHANDI&fontSize=75&fontColor=00e5ff&animation=twinkling&fontAlignY=50&desc=Computer%20Science%20Engineer%20%7C%20COEP%20Technological%20University&descAlignY=72&descSize=16&descColor=ffffff" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&pause=400&color=00E5FF&center=true&vCenter=true&width=700&lines=CORE+JAVA+DEVELOPER+%E2%9A%A1;FINTECH+%26+BACKEND+BUILDER+%F0%9F%92%B3;FASTAPI+%26+PYTHON+EXPLORER+%F0%9F%90%8D;ADVANCED+DATA+STRUCTURES+%F0%9F%A7%A0;SYSTEMS+ARCHITECT+%26+BUILDER+%F0%9F%94%A5;COEP+Pune+%7C+B.Tech+CS+%F0%9F%8E%93" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=500&color=00E5FF&center=true&vCenter=true&width=650&lines=Core+Java+Developer+%E2%9A%A1;Fintech+%26+Backend+Builder+%F0%9F%92%B3;FastAPI+%26+Python+Explorer+%F0%9F%90%8D;Data+Structures+%26+Algorithms+%F0%9F%A7%A0;COEP+Pune+%7C+B.Tech+CS+%F0%9F%8E%93" alt="Typing SVG"/>
 
 <br/>
 
@@ -14,7 +14,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thecodex110&color=00e5ff&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/thecodex110?style=for-the-badge&color=7b00ff&labelColor=0d1117&label=FOLLOWERS)
+![GitHub followers](https://img.shields.io/github/followers=thecodex110&color=7b00ff&labelColor=0d1117&label=FOLLOWERS)
 
 </div>
 
@@ -25,7 +25,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thecodex110/thecodex110/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thecodex110/thecodex110/output/github-snake.svg"/>
-  <img alt="Mohd Mehandi's Contribution Snake Heatmap" src="https://raw.githubusercontent.com/thecodex110/thecodex110/output/github-snake-dark.svg" width="100%"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/thecodex110/thecodex110/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
@@ -58,7 +58,7 @@
 **Databases & Storage**
 
 ![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&choice=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Tools & Environment**
@@ -101,3 +101,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=thecodex110&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
 
 </div>
+
+---
+
+<h2 align="center">⚡ Engineering Details</h2>
