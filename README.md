@@ -4,8 +4,29 @@
 
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=YOUR%20NAME&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=CS%20Student%20%7C%20COEP%20Technological%20University&descAlignY=75&descSize=16&descColor=00e5ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=23,28,33,35&height=220&section=header&text=MOHD%20MEHANDI&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=50&desc=Computer%20Science%20Engineer%20%7C%20COEP%20Technological%20University&descAlignY=72&descSize=16&descColor=00e5ff" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Core+Java+Developer+%E2%9A%A1;Fintech+%26+Backend+Builder+%F0%9F%92%B3;FastAPI+%26+Python+Explorer+%F0%9F%90%8D;Data+Structures+%26+Algorithms+%F0%9F%A7%A0;COEP+Pune+%7C+B.Tech+CS+2028+%F0%9F%8E%93" alt="Typing SVG"/>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=00e5ff)](https://YOUR-PORTFOLIO.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR-TWITTER)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=00e5ff&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?style=for-the-badge&color=7b00ff&labelColor=0d1117&label=FOLLOWERS)
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5&height=3&section=header" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;ML+%2F+AI+Enthusiast+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%8C%9F;Competitive+Programmer+%E2%9A%A1;Building+Cool+Stuff+%F0%9F%94%A5;COEP+Pune+%7C+B.Tech+CS+2025" alt="Typing SVG"/>
