@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Core+Java+Developer+%E2%9A%A1;Fintech+%26+Backend+Builder+%F0%9F%92%B3;FastAPI+%26+Python+Explorer+%F0%9F%90%8D;Data+Structures+%26+Algorithms+%F0%9F%A7%A0;COEP+Pune+%7C+B.Tech+CS+%F0%9F%8E%93" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=500&color=00E5FF&center=true&vCenter=true&width=650&lines=Core+Java+Developer+%E2%9A%A1;Fintech+%26+Backend+Builder+%F0%9F%92%B3;FastAPI+%26+Python+Explorer+%F0%9F%90%8D;Data+Structures+%26+Algorithms+%F0%9F%A7%A0;COEP+Pune+%7C+B.Tech+CS+%F0%9F%8E%93" alt="Typing SVG"/>
 
 <br/>
 
