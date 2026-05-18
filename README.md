@@ -4,58 +4,66 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=26&pause=300&color=00E5FF&center=true&vCenter=true&width=700&lines=%E2%9A%A1+CORE+JAVA+ARCHITECT+%E2%9A%A1;%F0%9F%92%B3+FINTECH+BACKEND+DEV+%F0%9F%92%B3;%F0%9F%90%8D+FASTAPI+%2F+PYTHON+EXPLORER+%F0%9F%90%8D;%F0%9F%A7%A0+DATA+STRUCTURES+%26+ALGORITHMS+%F0%9F%A7%A0;%F0%9F%8E%93+COEP+PUNE+%7C+B.TECH+CS+%F0%9F%8E%93" alt="Swag Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=26&pause=300&color=00E5FF&center=true&vCenter=true&width=700&lines=%E2%9A%A1+CORE+JAVA+ARCHITECT+%E2%9A%A1;%F0%9F%A7%A0+DATA+STRUCTURES+%26+ALGORITHMS+%F0%9F%A7%A0;%F0%9F%A7%AA+DATA+SCIENCE+EXPLORER+%F0%9F%A7%AA;%F0%9F%92%B3+FINTECH+BACKEND+DEV+%F0%9F%92%B3;%F0%9F%8E%93+COEP+PUNE+%7C+B.TECH+CS+%F0%9F%8E%93" alt="Swag Typing SVG"/>
 
+<br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-mehandi-bb5204375)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdmehndi0316@gmail.com)
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thecodex110&color=00e5ff&style=for-the-badge&label=METRIC+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/thecodex110?style=for-the-badge&color=7b00ff&labelColor=0d1117&label=FOLLOWERS)
+![GitHub followers](https://img.shields.io/github/followers=thecodex110&color=7b00ff&labelColor=0d1117&label=FOLLOWERS)
 
 </div>
 
 ---
 
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thecodex110/thecodex110/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thecodex110/thecodex110/output/github-snake.svg"/>
+  <img alt="Mohd Mehandi's Live Contribution Snake" src="https://raw.githubusercontent.com/thecodex110/thecodex110/output/github-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
 
 ---
 
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28">
-  &nbsp; Core Arsenal & Tech Stack &nbsp;
+  &nbsp; Tech Stack & Arsenal &nbsp;
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28">
 </h2>
 
 <div align="center">
 
-**Languages & Core Systems**
+### 🤖 AI, Machine Learning & Data Science
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,scikit,pytorch&theme=dark" />
+</p>
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### ☕ Languages & Core Architecture
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,js&theme=dark" />
+</p>
 
-**Backend Frameworks & Architectures**
+### ⚡ Backend Frameworks & Web Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,html,css&theme=dark" />
+</p>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### 🗄️ Databases & Enterprise Storage
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
+</p>
 
-**Databases & Storage**
-
-![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools & Environment**
-
-![Mac OS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🛠️ Engineering Tools & Environments
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=apple,linux,git,github,docker,postman&theme=dark" />
+</p>
 
 </div>
 
@@ -91,3 +99,4 @@
 
 ---
 
+<h2 align="center">⚡ Engineering Details</h2>
