@@ -6,12 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=26&pause=300&color=00E5FF&center=true&vCenter=true&width=700&lines=%E2%9A%A1+CORE+JAVA+ARCHITECT+%E2%9A%A1;%F0%9F%92%B3+FINTECH+BACKEND+DEV+%F0%9F%92%B3;%F0%9F%90%8D+FASTAPI+%2F+PYTHON+EXPLORER+%F0%9F%90%8D;%F0%9F%A7%A0+DATA+STRUCTURES+%26+ALGORITHMS+%F0%9F%A7%A0;%F0%9F%8E%93+COEP+PUNE+%7C+B.TECH+CS+%F0%9F%8E%93" alt="Swag Typing SVG"/>
 
-<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-mehandi-bb5204375)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdmehndi0316@gmail.com)
-
-<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thecodex110&color=00e5ff&style=for-the-badge&label=METRIC+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/thecodex110?style=for-the-badge&color=7b00ff&labelColor=0d1117&label=FOLLOWERS)
