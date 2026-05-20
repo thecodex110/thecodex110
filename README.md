@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Terminal Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&amp;weight=700&amp;size=22&amp;pause=500&amp;color=00FF41&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=%3E+SYSTEMS+ARCHITECT+_;%3E+DATA+STRUCTURES+%26+ALGORITHMS+_;%3E+DATA+SCIENCE+EXPLORER+_;%3E+FINTECH+BACKEND+DEV+_;%3E+COEP+PUNE+%7C+B.TECH+CS+_" alt="Terminal Typing SVG"/>
+<img src="https://es.pinterest.com/ideas/rels-b-album-cover/905932293257/)font=Share+Tech+Mono&amp;weight=700&amp;size=22&amp;pause=500&amp;color=00FF41&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=%3E+SYSTEMS+ARCHITECT+_;%3E+DATA+STRUCTURES+%26+ALGORITHMS+_;%3E+DATA+SCIENCE+EXPLORER+_;%3E+FINTECH+BACKEND+DEV+_;%3E+COEP+PUNE+%7C+B.TECH+CS+_" alt="Terminal Typing SVG"/>
 
 <br/>
 
