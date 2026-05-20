@@ -85,6 +85,4 @@
 
 </div>
 
----
 
-<h2 align="center">⚡ Engineering Details</h2>
