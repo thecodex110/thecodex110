@@ -1,22 +1,22 @@
 <div align="center">
 
-<!-- Cyberpunk Terminal Header (Make sure you uploaded the new header.svg) -->
-<img src="header.svg" width="100%" alt="Cyberpunk Terminal Header"/>
+<!-- Cyberpunk Terminal Header (Fully Hosted Web Version - Works Instantly!) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0D0D0D&amp;height=220&amp;section=header&amp;text=root@mehandi:~$%20_&amp;fontSize=55&amp;fontColor=00FF41&amp;animation=twinkling&amp;fontAlignY=40&amp;desc=SYSTEMS%20ARCHITECT%20//%20FINTECH%20BACKEND&amp;descAlignY=65&amp;descSize=20&amp;descColor=A1A1A1" width="100%" alt="Cyberpunk Terminal Header"/>
 
 <br/>
 
 <!-- Terminal Typing Effect -->
-<img src="https://es.pinterest.com/ideas/rels-b-album-cover/905932293257/)font=Share+Tech+Mono&amp;weight=700&amp;size=22&amp;pause=500&amp;color=00FF41&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=%3E+SYSTEMS+ARCHITECT+_;%3E+DATA+STRUCTURES+%26+ALGORITHMS+_;%3E+DATA+SCIENCE+EXPLORER+_;%3E+FINTECH+BACKEND+DEV+_;%3E+COEP+PUNE+%7C+B.TECH+CS+_" alt="Terminal Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&amp;weight=700&amp;size=22&amp;pause=500&amp;color=00FF41&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=%3E+SYSTEMS+ARCHITECT+_;%3E+DATA+STRUCTURES+%26+ALGORITHMS+_;%3E+DATA+SCIENCE+EXPLORER+_;%3E+FINTECH+BACKEND+DEV+_;%3E+COEP+PUNE+%7C+B.TECH+CS+_" alt="Terminal Typing SVG"/>
 
 <br/>
 
 <!-- Social Badges (Hacker Style) -->
 <a href="https://www.linkedin.com/in/mohd-mehandi-bb5204375">
-  <img src="https://img.shields.io/badge/LinkedIn-CONNECTED-0D0D0D?style=for-the-badge&amp;logo=linkedin&amp;logoColor=00FF41" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&amp;logo=linkedin&amp;logoColor=00FF41" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:mohdmehndi0316@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ENCRYPTED-0D0D0D?style=for-the-badge&amp;logo=gmail&amp;logoColor=00FF41" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&amp;logo=gmail&amp;logoColor=00FF41" alt="Email"/>
 </a>
 
 <br/><br/>
@@ -37,7 +37,7 @@
 
 ### 🤖 AI, Machine Learning & Data Science
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,scikit,pytorch&amp;theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,scikitlearn,pytorch&amp;theme=dark" />
 </p>
 
 ### ☕ Languages & Core Architecture
