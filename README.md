@@ -1,12 +1,17 @@
 <div align="center">
 
-<!-- Cyberpunk Terminal Header (Fully Hosted Web Version - Works Instantly!) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0D0D0D&amp;height=220&amp;section=header&amp;text=root@mehandi:~$%20_&amp;fontSize=55&amp;fontColor=00FF41&amp;animation=twinkling&amp;fontAlignY=40&amp;desc=SYSTEMS%20ARCHITECT%20//%20FINTECH%20BACKEND&amp;descAlignY=65&amp;descSize=20&amp;descColor=A1A1A1" width="100%" alt="Cyberpunk Terminal Header"/>
+<!-- Animated Waving Cyberpunk Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=000000,003311,00FF41,000000&amp;height=220&amp;section=header&amp;text=root@mehandi:~$%20_&amp;fontSize=55&amp;fontColor=00FF41&amp;animation=twinkling&amp;fontAlignY=40&amp;desc=SYSTEMS%20ARCHITECT%20//%20FINTECH%20BACKEND&amp;descAlignY=65&amp;descSize=20&amp;descColor=FFFFFF" width="100%" alt="Cyberpunk Terminal Header"/>
 
-<br/>
+<br/><br/>
+
+<!-- Hacker / Coding Animated GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" />
+
+<br/><br/>
 
 <!-- Terminal Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&amp;weight=700&amp;size=22&amp;pause=500&amp;color=00FF41&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=%3E+SYSTEMS+ARCHITECT+_;%3E+DATA+STRUCTURES+%26+ALGORITHMS+_;%3E+DATA+SCIENCE+EXPLORER+_;%3E+FINTECH+BACKEND+DEV+_;%3E+COEP+PUNE+%7C+B.TECH+CS+_" alt="Terminal Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&amp;weight=700&amp;size=24&amp;pause=500&amp;color=00FF41&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=%3E+SYSTEMS+ARCHITECT+_;%3E+DATA+STRUCTURES+%26+ALGORITHMS+_;%3E+DATA+SCIENCE+EXPLORER+_;%3E+FINTECH+BACKEND+DEV+_;%3E+COEP+PUNE+%7C+B.TECH+CS+_" alt="Terminal Typing SVG"/>
 
 <br/>
 
@@ -25,12 +30,17 @@
 
 </div>
 
----
+<br/>
+
+<!-- Animated Glowing Line Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
 
 <h2 align="center">
-  <img src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="35">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Icons/master/Icons/Data%20&%20Software%20Engineering/Data%20&%20Software%20Engineering.gif" width="40">
   &nbsp; CORE DIRECTORIES &nbsp;
-  <img src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="35">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Icons/master/Icons/Data%20&%20Software%20Engineering/Data%20&%20Software%20Engineering.gif" width="40">
 </h2>
 
 <div align="center">
@@ -62,10 +72,14 @@
 
 </div>
 
----
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
 <h2 align="center">
-  📊 &nbsp; SYSTEM TELEMETRY
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Icons/master/Icons/Business/Business.gif" width="40">
+  &nbsp; SYSTEM TELEMETRY
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Icons/master/Icons/Business/Business.gif" width="40">
 </h2>
 
 <div align="center">
@@ -80,10 +94,14 @@
 
 </div>
 
----
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
 <h2 align="center">
-  🏆 &nbsp; ENCRYPTED ACHIEVEMENTS
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Icons/master/Icons/Time%20and%20Date/Time%20and%20Date.gif" width="40">
+  &nbsp; ENCRYPTED ACHIEVEMENTS
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Icons/master/Icons/Time%20and%20Date/Time%20and%20Date.gif" width="40">
 </h2>
 
 <div align="center">
