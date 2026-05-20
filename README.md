@@ -20,18 +20,6 @@
 
 ---
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thecodex110/thecodex110/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thecodex110/thecodex110/output/github-snake.svg"/>
-  <img alt="Mohd Mehandi's Live Contribution Snake" src="https://raw.githubusercontent.com/thecodex110/thecodex110/output/github-snake-dark.svg" width="100%"/>
-</picture>
-
-</div>
-
----
-
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28">
   &nbsp; Tech Stack & Arsenal &nbsp;
