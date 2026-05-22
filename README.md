@@ -1,21 +1,17 @@
 <div align="center">
 
-<!-- Animated Waving Cyberpunk Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=000000,011f0a,00FF41,000000&amp;height=220&amp;section=header&amp;text=root@mehandi:~$%20_&amp;fontSize=55&amp;fontColor=00FF41&amp;animation=twinkling&amp;fontAlignY=40&amp;desc=SYSTEMS%20ARCHITECT%20//%20FINTECH%20BACKEND&amp;descAlignY=65&amp;descSize=20&amp;descColor=FFFFFF" width="100%" alt="Cyberpunk Terminal Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=000000,001a00,00ff41,000000&amp;height=220&amp;section=header&amp;text=root@mehandi:~$%20_&amp;fontSize=55&amp;fontColor=00FF41&amp;animation=twinkling&amp;fontAlignY=40&amp;desc=SYSTEMS%20ARCHITECT%20//%20FINTECH%20BACKEND&amp;descAlignY=65&amp;descSize=20&amp;descColor=FFFFFF" width="100%" alt="Cyberpunk Terminal Header"/>
 
 <br/>
 
-<!-- Hacker / Coding Animated GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="280" alt="Terminal Coding"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmszdDRscG83Ynd6NXZ3NTR0b3N6bXpoY3N6bXpxdHpwdWZ6bXpsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qoon7m8da8da0/giphy.gif" width="260" alt="Terminal Coding"/>
 
 <br/><br/>
 
-<!-- Terminal Typing Effect -->
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&amp;weight=700&amp;size=24&amp;pause=500&amp;color=00FF41&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=%3E+SYSTEMS+ARCHITECT+_;%3E+DATA+STRUCTURES+%26+ALGORITHMS+_;%3E+DATA+SCIENCE+EXPLORER+_;%3E+FINTECH+BACKEND+DEV+_;%3E+COEP+PUNE+%7C+B.TECH+CS+_" alt="Terminal Typing SVG"/>
 
 <br/>
 
-<!-- Social Badges (Hacker Style) -->
 <a href="https://www.linkedin.com/in/mohd-mehandi-bb5204375" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&amp;logo=linkedin&amp;logoColor=00FF41" alt="LinkedIn"/>
 </a>
@@ -30,18 +26,9 @@
 
 </div>
 
-<br/>
+<hr style="border: 1px solid #00FF41;">
 
-<!-- Animated Glowing Line Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider">
-
-<br/>
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Icons/master/Icons/Data%20&%20Software%20Engineering/Data%20&%20Software%20Engineering.gif" width="35" alt="icon">
-  &nbsp; CORE DIRECTORIES &nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Icons/master/Icons/Data%20&%20Software%20Engineering/Data%20&%20Software%20Engineering.gif" width="35" alt="icon">
-</h2>
+<h2 align="center">⚡ CORE DIRECTORIES ⚡</h2>
 
 <div align="center">
 
@@ -62,39 +49,27 @@
 
 </div>
 
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider">
-<br/>
+<hr style="border: 1px solid #00FF41;">
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Icons/master/Icons/Business/Business.gif" width="35" alt="icon">
-  &nbsp; SYSTEM TELEMETRY &nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Icons/master/Icons/Business/Business.gif" width="35" alt="icon">
-</h2>
+<h2 align="center">📊 SYSTEM TELEMETRY</h2>
 
 <div align="center">
 
-#### 📊 OVERVIEW & STREAK
+#### OVERVIEW & STREAK
 | | |
 | :---: | :---: |
 | <img src="https://github-readme-stats.vercel.app/api?username=thecodex110&amp;show_icons=true&amp;hide_border=false&amp;bg_color=0D0D0D&amp;title_color=00FF41&amp;icon_color=00FF41&amp;text_color=A1A1A1&amp;border_color=00FF41" width="100%" alt="GitHub Stats"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=thecodex110&amp;hide_border=false&amp;background=0D0D0D&amp;ring=00FF41&amp;fire=00FF41&amp;currStreakLabel=00FF41&amp;sideLabels=A1A1A1&amp;sideNums=FFFFFF&amp;border=00FF41" width="100%" alt="GitHub Streak"/> |
 
-#### 📈 DEVELOPMENT METRICS
+#### DEVELOPMENT METRICS
 | | |
 | :---: | :---: |
 | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodex110&amp;layout=compact&amp;hide_border=false&amp;bg_color=0D0D0D&amp;title_color=00FF41&amp;text_color=A1A1A1&amp;border_color=00FF41&amp;langs_count=6" width="100%" alt="Top Languages"/> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=thecodex110&amp;hide_border=false&amp;bg_color=0D0D0D&amp;color=00FF41&amp;line=00FF41&amp;point=FFFFFF&amp;border_color=00FF41" width="100%" alt="Activity Graph"/> |
 
 </div>
 
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider">
-<br/>
+<hr style="border: 1px solid #00FF41;">
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Icons/master/Icons/Time%20and%20Date/Time%20and%20Date.gif" width="35" alt="icon">
-  &nbsp; ENCRYPTED ACHIEVEMENTS &nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Icons/master/Icons/Time%20and%20Date/Time%20and%20Date.gif" width="35" alt="icon">
-</h2>
+<h2 align="center">🏆 ENCRYPTED ACHIEVEMENTS</h2>
 
 <div align="center">
 
