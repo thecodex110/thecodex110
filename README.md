@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmszdDRscG83Ynd6NXZ3NTR0b3N6bXpoY3N6bXpxdHpwdWZ6bXpsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qoon7m8da8da0/giphy.gif" width="260" alt="Terminal Coding"/>
+<img src="https://raw.githubusercontent.com/thecodex110/thecodex110/main/matrix.gif" onerror="this.onerror=null; this.src='https://media.giphy.com/media/3knKct3fGqxhK/giphy.gif';" width="280" alt="Terminal Coding"/>
 
 <br/><br/>
 
