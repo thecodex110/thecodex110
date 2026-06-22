@@ -75,4 +75,6 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=thecodex110&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7" width="100%" alt="GitHub Trophies"/>
 
+<div><link>https://www.instagram.com/reel/DYKqdP2MBG0/?igsh=MWR3Z2hjb3V2Nmo3OQ==</link></div>
+
 </div>
