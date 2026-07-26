@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="terminal coding animation"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" alt="terminal coding animation"/>
 
 <br/><br/>
 
@@ -87,35 +87,11 @@ fun_fact: "root access to production... and my own curiosity"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thecodex110&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=00FF41&icon_color=00FF41&text_color=A1A1A1&border_color=00FF41" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thecodex110&hide_border=true&background=0D0D0D&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=A1A1A1&sideNums=FFFFFF&border=00FF41" width="48%" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thecodex110&hide_border=true&background=0D0D0D&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=A1A1A1&sideNums=FFFFFF&border=00FF41" width="70%" alt="GitHub Streak"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodex110&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=00FF41&text_color=A1A1A1&border_color=00FF41&langs_count=6" width="48%" alt="Top Languages"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thecodex110&hide_border=true&bg_color=0D0D0D&color=00FF41&line=00FF41&point=FFFFFF&border_color=00FF41" width="48%" alt="Activity Graph"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=header" width="100%"/>
-
-<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/thecodex110/thecodex110/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
-
-<sub>⚠️ This animation needs a one-time GitHub Action set up in your profile repo — instructions below.</sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=header" width="100%"/>
-
-<h2 align="center">🏆 ENCRYPTED ACHIEVEMENTS</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=thecodex110&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub Trophies"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thecodex110&hide_border=true&bg_color=0D0D0D&color=00FF41&line=00FF41&point=FFFFFF&border_color=00FF41" width="85%" alt="Activity Graph"/>
 
 </div>
 
