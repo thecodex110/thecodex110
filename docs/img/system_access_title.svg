@@ -1,0 +1,20 @@
+<svg width="900" height="90" viewBox="0 0 900 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="titleLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00FF41" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00FF41" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#00FF41" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="900" height="90" fill="#0D0D0D"/>
+  <line x1="20" y1="20" x2="880" y2="20" stroke="url(#titleLine)" stroke-width="1.5"/>
+  <text x="450" y="55" font-family="Fira Code, monospace" font-size="28" font-weight="700"
+        fill="#00FF41" text-anchor="middle" filter="url(#glow)">
+    ⚡ root@mehandi:~$ ./system_access.sh
+  </text>
+  <line x1="20" y1="72" x2="880" y2="72" stroke="url(#titleLine)" stroke-width="1.5"/>
+</svg>

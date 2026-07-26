@@ -1,0 +1,26 @@
+<svg width="900" height="170" viewBox="0 0 900 170" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="portalBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D0D0D"/>
+      <stop offset="100%" stop-color="#001a00"/>
+    </linearGradient>
+    <filter id="pglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="4" y="4" width="892" height="162" rx="14" fill="url(#portalBg)" stroke="#00FF41" stroke-width="2"/>
+  <circle cx="35" cy="35" r="6" fill="#FF5F56"/>
+  <circle cx="58" cy="35" r="6" fill="#FFBD2E"/>
+  <circle cx="81" cy="35" r="6" fill="#27C93F"/>
+  <text x="35" y="90" font-family="Fira Code, monospace" font-size="26" font-weight="700" fill="#00FF41" filter="url(#pglow)">
+    &gt; MAIN TERMINAL
+  </text>
+  <text x="35" y="122" font-family="Fira Code, monospace" font-size="15" fill="#A1A1A1">
+    Systems Architect | Fintech Backend | DSA Enthusiast
+  </text>
+  <text x="35" y="148" font-family="Fira Code, monospace" font-size="14" fill="#00FF41">
+    github.com/thecodex110 →
+  </text>
+  <text x="865" y="95" font-family="monospace" font-size="34" fill="#00FF41" text-anchor="end" opacity="0.5">⌘</text>
+</svg>

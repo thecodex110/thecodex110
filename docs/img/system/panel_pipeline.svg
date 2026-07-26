@@ -1,0 +1,30 @@
+<!-- EDIT: swap title/desc + href once you have your real repo -->
+<svg width="280" height="260" viewBox="0 0 280 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D0D0D"/><stop offset="100%" stop-color="#00190a"/>
+    </linearGradient>
+    <filter id="glow3" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="3" y="3" width="274" height="254" rx="14" fill="url(#g3)" stroke="#00FF41" stroke-width="1.5"/>
+  <circle cx="140" cy="70" r="34" fill="none" stroke="#00FF41" stroke-width="1.5" opacity="0.5"/>
+  <text x="140" y="82" font-size="34" text-anchor="middle" filter="url(#glow3)">📊</text>
+  <text x="140" y="130" font-family="Fira Code, monospace" font-size="19" font-weight="700"
+        fill="#00FF41" text-anchor="middle" filter="url(#glow3)">Data Pipeline</text>
+  <text x="140" y="153" font-family="Fira Code, monospace" font-size="12" fill="#A1A1A1" text-anchor="middle">
+    ETL &amp; applied ML experiments
+  </text>
+  <rect x="30" y="175" width="60" height="20" rx="5" fill="none" stroke="#00FF41" stroke-width="1" opacity="0.6"/>
+  <text x="60" y="189" font-family="Fira Code, monospace" font-size="10" fill="#00FF41" text-anchor="middle">Python</text>
+  <rect x="100" y="175" width="80" height="20" rx="5" fill="none" stroke="#00FF41" stroke-width="1" opacity="0.6"/>
+  <text x="140" y="189" font-family="Fira Code, monospace" font-size="10" fill="#00FF41" text-anchor="middle">scikit-learn</text>
+  <rect x="190" y="175" width="60" height="20" rx="5" fill="none" stroke="#00FF41" stroke-width="1" opacity="0.6"/>
+  <text x="220" y="189" font-family="Fira Code, monospace" font-size="10" fill="#00FF41" text-anchor="middle">MongoDB</text>
+  <rect x="30" y="215" width="220" height="1" fill="#00FF41" opacity="0.3"/>
+  <text x="140" y="240" font-family="Fira Code, monospace" font-size="13" fill="#00FF41" text-anchor="middle">
+    view repo →
+  </text>
+</svg>
