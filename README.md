@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=250&section=header&text=Mohd%20Mehandi&fontSize=68&fontColor=00FF41&animation=twinkling" alt="Mohd Mehandi profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,001a00,00ff41,000000&height=250&section=header&text=Mohd%20Mehandi&fontSize=68&fontColor=00FF41&animation=twinkling&fontAlignY=40" alt="Mohd Mehandi profile header" />
+</p>
+
+<p align="center">
+  <a href="https://profile-website-umber.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-profile--website--umber.vercel.app-00FF41?style=for-the-badge&labelColor=000000" alt="Portfolio website"/>
+  </a>
 </p>
 
 <h3 align="center">
