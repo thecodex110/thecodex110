@@ -168,11 +168,15 @@
 ### 📊 Vital Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thecodex110&hide_border=true&background=0D0D0D&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=A1A1A1&sideNums=FFFFFF&border=00FF41" alt="Streak" width="70%"/>
+  <img src="https://streak-stats.demolab.com/?user=thecodex110&hide_border=true&background=0D0D0D&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=A1A1A1&sideNums=FFFFFF&border=00FF41" alt="Streak" width="75%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thecodex110&hide_border=true&bg_color=0D0D0D&color=00FF41&line=00FF41&point=FFFFFF&border_color=00FF41" alt="Activity graph" width="85%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thecodex110&theme=cyberpunk" alt="Profile Details" width="85%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thecodex110&hide_border=true&bg_color=0D0D0D&color=00FF41&line=00FF41&point=00FF41&area=true&days=365" alt="Activity graph" width="85%"/>
 </p>
 
 <p align="center">
